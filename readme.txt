@@ -1,3 +1,2 @@
-Git is a good version control system.
-Git is free software
-I love git.
+Git is a good
+Git Studing...
